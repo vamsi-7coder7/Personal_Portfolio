@@ -54,6 +54,10 @@ You can view the live demo [here](https://github.com/vamsi-7coder7/Personal_Port
 ### Contact Section
 ![Contact Section](https://github.com/user-attachments/assets/1d47fb25-1e50-447a-9849-dbc9dc960e84)
 
+### Credits
+#### Font Awesome: Font Awesome for the icons.
+#### Google Fonts: Google Fonts for typography.
+
 ## How to Run Locally
 To run this project on your local machine:
 1. Clone the repository using:
